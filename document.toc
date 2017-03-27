@@ -1,0 +1,4 @@
+\contentsline {chapter}{\numberline {1}Introduction}{v}
+\contentsline {section}{\numberline {1.1}Overview}{v}
+\contentsline {section}{\numberline {1.2}What is Digital Image Processing}{v}
+\contentsline {section}{\numberline {1.3}First photograph in the world}{v}
